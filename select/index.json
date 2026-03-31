@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Antidote",
+  "base_artist": "Story Of The Year",
+  "createdAt": "2026-03-31T06:55:08.467833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Ten Foot Pole",
+      "has_synced": false,
+      "path": "select/01_The_Antidote_Ten_Foot_Pole.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/02_The_Antidote_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Memphis May Fire",
+      "has_synced": true,
+      "path": "select/03_The_Antidote_Memphis_May_Fire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Story of the Year",
+      "has_synced": true,
+      "path": "select/04_The_Antidote_Story_of_the_Year.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "blackwave. feat. Winston Surfshirt & Benny Sings",
+      "has_synced": true,
+      "path": "select/05_The_Antidote_blackwave._feat._Winston_Surfshirt_&_Benny_Sings.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Antidote (Feat. Benny Sings)",
+      "artist": "Blackwave",
+      "has_synced": true,
+      "path": "select/06_The_Antidote_(Feat._Benny_Sings)_Blackwave.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Stupeflip",
+      "has_synced": true,
+      "path": "select/07_The_Antidote_Stupeflip.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/08_The_Antidote_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/09_The_Antidote_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Antidote (feat. Onlap)",
+      "artist": "Youth Never Dies feat. Onlap",
+      "has_synced": true,
+      "path": "select/10_The_Antidote_(feat._Onlap)_Youth_Never_Dies_feat._Onlap.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Youth Never Dies/Onlap",
+      "has_synced": true,
+      "path": "select/11_The_Antidote_Youth_Never_Dies_Onlap.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Am the Antidote",
+      "artist": "Lost Society",
+      "has_synced": false,
+      "path": "select/12_I_Am_the_Antidote_Lost_Society.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Smoke DZA",
+      "has_synced": true,
+      "path": "select/13_The_Antidote_Smoke_DZA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Antidote (feat. LevyGrey)",
+      "artist": "Smoke DZA",
+      "has_synced": true,
+      "path": "select/14_The_Antidote_(feat._LevyGrey)_Smoke_DZA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Antidote (feat. Benny Sings)",
+      "artist": "blackwave. & Winston Surfshirt",
+      "has_synced": true,
+      "path": "select/15_The_Antidote_(feat._Benny_Sings)_blackwave._&_Winston_Surfshirt.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Antidote",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/16_The_Antidote_Simple_Plan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Antidote",
+      "artist": "Story Of The Year",
+      "has_synced": false,
+      "path": "select/pl_01_The_Antidote_Story_Of_The_Year.txt"
+    }
+  ]
+}
