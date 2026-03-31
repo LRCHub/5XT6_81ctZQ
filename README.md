@@ -1,0 +1,60 @@
+# Story Of The Year – The Antidote
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:28.77] Now the damage has been done
+[00:32.20] And this machine has begun on a path of destruction
+[00:39.43] We need the medicine
+[00:41.91] To reverse what's been done
+[00:44.71] Before this disease has destroyed everything we know
+[00:50.48] Everything we know!
+[00:59.98] 
+[00:53.70] All we need is a reason (All we need is a reason)
+[00:58.95] All we need is right here inside us all
+[01:18.45] 
+[01:03.15] With our weapons drawn and all our resources gone
+[01:08.25] We're facing extinction
+[01:12.55] The only antidote consists of blood, sweat, and hope
+[01:17.88] And a blueprint to save us from all that we've become
+[01:23.42] All that we've become!
+[01:34.42] 
+[01:26.82] All we need is a reason (All we need is a reason)
+[01:31.83] All we need is right here inside us all
+[01:36.58] All we need is a reason (All we need is a reason)
+[01:41.23] All we need is right here inside us
+[01:45.10] Here inside us all!
+[01:54.60] 
+[01:51.82] Yeah!
+[01:55.93] Oh
+[01:56.93] 
+[01:58.98] Now the gears they will fail to turn
+[02:04.47] As the lights go out
+[02:08.55] And the sun will be all that burns on our way down
+[02:16.70] (On our way down)
+[02:17.93] But right now we have to understand the problem
+[02:24.67] And overcome!
+[02:31.17] 
+[02:33.97] So arm yourself
+[02:37.75] Your mind's your gun
+[02:41.33] It's time to learn
+[02:44.85] Accept what's done, and yeah
+[02:49.54] Repair this destruction!
+[03:01.54] 
+[02:52.80] All we need is a reason
+[02:57.46] All we need is right here inside us
+[03:02.17] All we need is a reason (All we need is a reason)
+[03:07.01] All we need is right here inside us all
+[03:26.51] 
+[03:11.68] All we need is a reason (All we need is a reason)
+[03:16.45] All we need is right here inside us all
+[03:21.21] (All we need is a reason)
+[03:23.53] All we need is a reason
+[03:25.81] (All we need is a reason)
+[03:28.47] Whoa
+[03:30.47] 
+[03:30.49] (All we need is a reason)
+[03:32.99] All we need is a reason
+[03:35.59] All we need is right here inside us
+[03:39.72] Here inside us all
+```
